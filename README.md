@@ -6,7 +6,7 @@ Aplicação Java com interface gráfica Swing simples para calcular o Índice de
 Tenha o pacote `default-jdk` instalado
 
 ## Como usar
-1. Clone o repositório para seu dispositivo
+1. Clone o repositório para um diretório local:
    ```bash
    git clone https://github.com/gabrielff5/calc-imc.git
    ```
